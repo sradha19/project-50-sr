@@ -1,6 +1,5 @@
 .menu{
-    display: flex;
-    justify-content: space-between;
+   
     background-color: black;
     font-size: 30px;
     font-family: sans-serif;
@@ -12,7 +11,7 @@ body{
     
 }
 .grid{
-    display: flex;
+   
     flex-wrap: wrap;
     font-family: sans-serif;
     
